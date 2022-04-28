@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/avengers-nftgame-monorepo/static/css/main.e897caba.css",
+    "main.js": "/avengers-nftgame-monorepo/static/js/main.bd155f04.js",
+    "static/js/787.cda612ba.chunk.js": "/avengers-nftgame-monorepo/static/js/787.cda612ba.chunk.js",
+    "static/media/twitter-logo.svg": "/avengers-nftgame-monorepo/static/media/twitter-logo.d89d9a86ae1051fd6dd2db222532cd2b.svg",
+    "static/media/favicon.ico": "/avengers-nftgame-monorepo/static/media/favicon.1c1847b13b300b925657.ico",
+    "index.html": "/avengers-nftgame-monorepo/index.html",
+    "main.e897caba.css.map": "/avengers-nftgame-monorepo/static/css/main.e897caba.css.map",
+    "main.bd155f04.js.map": "/avengers-nftgame-monorepo/static/js/main.bd155f04.js.map",
+    "787.cda612ba.chunk.js.map": "/avengers-nftgame-monorepo/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e897caba.css",
+    "static/js/main.bd155f04.js"
+  ]
+}
