@@ -125,6 +125,13 @@ const App = () => {
       fetchNFTMetadata();
     }
   }, [currentAccount])
+
+  useEffect(() => {
+    const { ethereum } = window;
+    ethereum.on('accountsChanged', (accounts) => {
+      setCurrentAccount(accounts[0])
+    })
+  })
   return (
     <div className="App">
       <div className="container">
