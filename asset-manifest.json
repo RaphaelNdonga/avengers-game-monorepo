@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/avengers-nftgame-monorepo/static/css/main.e897caba.css",
-    "main.js": "/avengers-nftgame-monorepo/static/js/main.bd155f04.js",
-    "static/js/787.cda612ba.chunk.js": "/avengers-nftgame-monorepo/static/js/787.cda612ba.chunk.js",
-    "static/media/twitter-logo.svg": "/avengers-nftgame-monorepo/static/media/twitter-logo.d89d9a86ae1051fd6dd2db222532cd2b.svg",
-    "static/media/favicon.ico": "/avengers-nftgame-monorepo/static/media/favicon.1c1847b13b300b925657.ico",
-    "index.html": "/avengers-nftgame-monorepo/index.html",
-    "main.e897caba.css.map": "/avengers-nftgame-monorepo/static/css/main.e897caba.css.map",
-    "main.bd155f04.js.map": "/avengers-nftgame-monorepo/static/js/main.bd155f04.js.map",
-    "787.cda612ba.chunk.js.map": "/avengers-nftgame-monorepo/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/epic-blockchain-game/static/css/main.612b73af.css",
+    "main.js": "/epic-blockchain-game/static/js/main.4300183d.js",
+    "static/js/787.cda612ba.chunk.js": "/epic-blockchain-game/static/js/787.cda612ba.chunk.js",
+    "static/media/twitter-logo.svg": "/epic-blockchain-game/static/media/twitter-logo.d89d9a86ae1051fd6dd2db222532cd2b.svg",
+    "static/media/favicon.ico": "/epic-blockchain-game/static/media/favicon.1c1847b13b300b925657.ico",
+    "index.html": "/epic-blockchain-game/index.html",
+    "main.612b73af.css.map": "/epic-blockchain-game/static/css/main.612b73af.css.map",
+    "main.4300183d.js.map": "/epic-blockchain-game/static/js/main.4300183d.js.map",
+    "787.cda612ba.chunk.js.map": "/epic-blockchain-game/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e897caba.css",
-    "static/js/main.bd155f04.js"
+    "static/css/main.612b73af.css",
+    "static/js/main.4300183d.js"
   ]
 }
